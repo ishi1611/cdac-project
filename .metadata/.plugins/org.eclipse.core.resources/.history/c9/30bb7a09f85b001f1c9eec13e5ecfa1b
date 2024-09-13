@@ -1,5 +1,0 @@
-package com.example.rentalcar.security;
-
-public class JwtTokenProvider {
-
-}

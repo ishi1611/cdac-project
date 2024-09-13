@@ -1,5 +1,0 @@
-package com.example.rentalcar.repositories;
-
-public interface UserRepository {
-
-}
