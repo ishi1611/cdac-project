@@ -1,0 +1,5 @@
+package com.example.rentalcar.controllers;
+
+public class AuthController {
+
+}
