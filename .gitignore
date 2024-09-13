@@ -31,7 +31,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-
 ### STS ###
 .apt_generated
 .classpath
@@ -40,7 +39,6 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
 
 ### IntelliJ IDEA ###
 .idea
@@ -60,5 +58,8 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 
 >>>>>>> dd986e5faceec0ce90e289713fbe51d2699aaad4
+=======
+>>>>>>> f9cb515d038c6f4ee0bb1a36bcb63338caf16af2
